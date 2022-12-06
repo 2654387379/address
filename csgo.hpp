@@ -6,6 +6,7 @@
 namespace hazedumper {
 constexpr ::std::int64_t timestamp = 1668855616;
 namespace netvars {
+constexpr ::std::ptrdiff_t m_iHealth=0x100;
 constexpr ::std::ptrdiff_t m_aimPunchAngle = 0x303C;
 constexpr ::std::ptrdiff_t m_aimPunchAngleVel = 0x3048;
 constexpr ::std::ptrdiff_t m_angEyeAnglesX = 0x117D0;
