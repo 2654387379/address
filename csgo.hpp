@@ -12,6 +12,7 @@ constexpr ::std::ptrdiff_t m_aimPunchAngleVel = 0x3048;
 constexpr ::std::ptrdiff_t m_angEyeAnglesX = 0x117D0;
 constexpr ::std::ptrdiff_t m_angEyeAnglesY = 0x117D4;
 constexpr ::std::ptrdiff_t m_bSpotted = 0x93D;
+constexpr ::std::ptrdiff_t m_bIsScoped = 0x9974;
 constexpr ::std::ptrdiff_t m_dwBoneMatrix = 0x26A8;
 constexpr ::std::ptrdiff_t m_fFlags = 0x104;
 constexpr ::std::ptrdiff_t m_hActiveWeapon = 0x2F08;
