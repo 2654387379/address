@@ -15,6 +15,7 @@ constexpr ::std::ptrdiff_t m_dwBoneMatrix = 0x26A8;
 constexpr ::std::ptrdiff_t m_fFlags = 0x104;
 constexpr ::std::ptrdiff_t m_hActiveWeapon = 0x2F08;
 constexpr ::std::ptrdiff_t m_hMyWeapons = 0x2E08;
+constexpr ::std::ptrdiff_t m_iItemDefinitionIndex = 0x2FBA;
 constexpr ::std::ptrdiff_t m_iCrosshairId = 0x11838;
 constexpr ::std::ptrdiff_t m_iTeamNum = 0xF4;
 constexpr ::std::ptrdiff_t m_vecOrigin = 0x138;
