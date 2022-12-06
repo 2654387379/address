@@ -36,6 +36,7 @@ constexpr ::std::ptrdiff_t dwForceJump = 0x52b9c0c;
 constexpr ::std::ptrdiff_t dwForceLeft = 0x322bcd4;
 constexpr ::std::ptrdiff_t dwForceRight = 0x322bce0;
 constexpr ::std::ptrdiff_t dwLocalPlayer = 0xde8964;
+constexpr ::std::ptrdiff_t dwbSendPackets = 0xDCF92;
 constexpr ::std::ptrdiff_t dwViewMatrix = 0x4deecb4;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
 } // namespace signatures
