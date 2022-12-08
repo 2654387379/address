@@ -24,6 +24,9 @@ constexpr ::std::ptrdiff_t m_vecOrigin = 0x138;
 constexpr ::std::ptrdiff_t m_iItemIDHigh = 0x2FD0;
 constexpr ::std::ptrdiff_t m_nFallbackPaintKit = 0x31D8;
 constexpr ::std::ptrdiff_t m_flFallbackWear = 0x31E0;
+constexpr ::std::ptrdiff_t m_bSpottedByMask = 0x980;
+constexpr ::std::ptrdiff_t m_bGunGameImmunity = 0x9990;
+constexpr ::std::ptrdiff_t m_iGlowIndex = 0x10488;
   
 } // namespace netvars
 namespace signatures {
